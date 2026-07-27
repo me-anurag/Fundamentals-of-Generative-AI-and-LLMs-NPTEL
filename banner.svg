@@ -1,0 +1,7 @@
+<svg width="1000" height="160" viewBox="0 0 1000 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="160" fill="#1a1030"/>
+  <text x="50" y="60" font-family="Arial, sans-serif" font-size="28" fill="#ffffff" font-weight="bold">Fundamentals of Generative AI and Large Language Models</text>
+  <text x="50" y="90" font-family="Arial, sans-serif" font-size="20" fill="#c9b8ff" font-weight="bold">Theory and Practice</text>
+  <text x="50" y="120" font-family="Arial, sans-serif" font-size="16" fill="#a397c4">NPTEL — Indian Institute of Science, Bangalore</text>
+  <text x="50" y="145" font-family="Arial, sans-serif" font-size="13" fill="#7d7099">Prof. Sriram Ganapathy | Prof. Ashwini Kodipalli | Prof. Baishali Garai</text>
+</svg>
