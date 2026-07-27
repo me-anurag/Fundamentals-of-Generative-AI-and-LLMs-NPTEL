@@ -1,25 +1,38 @@
-# Week 12: LLM Capabilities, Multimodal AI, and Ethics
+![Banner](banner.svg)
 
-Part of the Fundamentals of Generative AI and Large Language Models: Theory and Practice - NPTEL repository.
+# Fundamentals of Generative AI and Large Language Models: Theory and Practice — NPTEL
 
-## Topics Covered
+Notes, slides, assignment solutions, and revision material for the NPTEL course **Fundamentals of Generative AI and Large Language Models: Theory and Practice** by Prof. Sriram Ganapathy, Prof. Ashwini Kodipalli, and Prof. Baishali Garai, Indian Institute of Science, Bangalore.
 
-- LLMs for text generation
-- LLMs for audio, video, and multimodal tasks
-- Size vs performance
-- Issues: bias, fairness, hallucinations
-- Safety frameworks
-- Evaluation benchmarks
+## Syllabus
 
-## Hands-On Exercise
+| Week | Topics |
+|------|--------|
+| Week 1 | Fundamentals of Deep Learning for Generative AI: Generative AI overview, neural network revision, CNNs (LeNet, VGG, ResNet) |
+| Week 2 | Autoencoders: encoder-decoder architecture, bottleneck representation, denoising autoencoders |
+| Week 3 | Variational Autoencoders (VAEs): latent variable models, reparameterization trick, ELBO |
+| Week 4 | Advanced VAEs: Conditional VAE, Beta-VAE, disentanglement, latent interpolation |
+| Week 5 | Generative Adversarial Networks (GANs): generator-discriminator, minimax objective, DCGAN |
+| Week 6 | Advanced GAN Variants: cGAN, CycleGAN, Pix2Pix, StyleGAN/StyleGAN2, evaluation metrics |
+| Week 7 | Diffusion Models: forward diffusion process, variance schedules, noise prediction |
+| Week 8 | Reverse Diffusion, UNet Architecture, and Training: DDPM pipeline, classifier guidance |
+| Week 9 | Sequence Models, NLP Basics, and LSTMs: RNNs, LSTMs, motivation for Transformers |
+| Week 10 | Foundations of LLMs and Prompt Engineering: Transformer architecture, self-attention, tokenization |
+| Week 11 | Retrieval-Augmented Generation (RAG): retrieval and generation mechanisms, in-context learning, LoRA |
+| Week 12 | LLM Capabilities, Multimodal AI, and Ethics: bias, fairness, hallucinations, safety, evaluation |
 
-Build a text-generation demo using an open-source LLM. Perform summarization and question-answering tasks with prompt engineering. Analyze hallucination behavior using controlled prompts and document evidence.
+## Repository Structure
 
-## Contents
+Each `Week-XX/` folder contains:
+- `slides/` — lecture slides/notes
+- `assignment-solutions/` — weekly assignment questions, solutions, explanations
+- `revision/` — quick revision and important concepts
 
-- slides/ - lecture slides and notes for this week
-- revision/important-concepts.md - detailed notes for this week
-- revision/quick-revision.md - short revision sheet before an exam
-- assignment-solutions/questions.md - assignment questions
-- assignment-solutions/solutions.md - final answers
-- assignment-solutions/explanations.md - reasoning behind each answer
+## Credits
+
+- All lecture content and slides referenced/summarized in this repository belong to **NPTEL** and are based on the official course *Fundamentals of Generative AI and Large Language Models: Theory and Practice* taught by Prof. Sriram Ganapathy, Prof. Ashwini Kodipalli, and Prof. Baishali Garai, Indian Institute of Science, Bangalore. This repository is an independent, unofficial set of personal notes for learning purposes — not affiliated with or endorsed by NPTEL.
+- Official platform: [NPTEL / SWAYAM](https://onlinecourses.nptel.ac.in/)
+
+## License
+
+See [LICENSE](./LICENSE).
